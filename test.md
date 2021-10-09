@@ -1,5 +1,5 @@
 # h1 header
 
-[![](./batch-compute-env.excalidraw.png)](./batch-compute-env.excalidraw.png?raw=1)
+[![](./batch-compute-env.excalidraw.svg)](./batch-compute-env.excalidraw.svg?raw=1)
 
 
