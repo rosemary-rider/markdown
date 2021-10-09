@@ -1,5 +1,6 @@
 # h1 header
 
-[![hello](./batch-compute-env.excalidraw.png)](./batch-compute-env.excalidraw.png?raw=1)
+
+[<img src="./batch-compute-env.excalidraw.png" width="100%"/>](./batch-compute-env.excalidraw.png?raw=1)
 
 
