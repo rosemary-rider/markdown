@@ -5,11 +5,11 @@
     <style>
       @font-face {
         font-family: "Virgil";
-        src: url("https://github.com/rosemary-rider/markdown/blob/master/Virgil.woff2");
+        src: url("https://github.com/rosemary-rider/markdown/blob/master/Virgil.woff2?raw=1");
       }
       @font-face {
         font-family: "Cascadia";
-        src: url("https://github.com/rosemary-rider/markdown/blob/master/Cascadia.woff2");
+        src: url("https://github.com/rosemary-rider/markdown/blob/master/Cascadia.woff2?raw=1");
       }
     </style>
   </defs>
